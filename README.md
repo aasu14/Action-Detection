@@ -1,4 +1,4 @@
-# Action-Net
+# Action-Detection(Action-Net)
 Action-Net is a dataset containing images of 16 different human actions.
 <br><br>
 <img src="images/action_net.jpg" />
@@ -117,7 +117,3 @@ cycling  :  0.00024121977730828803
 <br>
 
 <h3><b><u>References</u></b></h3>
-
- 
- 1. Kaiming H. et al, Deep Residual Learning for Image Recognition <br>
- <a href="https://arxiv.org/abs/1512.03385" >https://arxiv.org/abs/1512.03385</a> <br><br>
