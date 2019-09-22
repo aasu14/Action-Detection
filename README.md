@@ -57,10 +57,7 @@ Running the experiment or prediction requires that you have **Tensorflow**, and 
 
 
 
-<b>>>> Video & Prediction Results</b> <br><br>
-Click below to watch the video demonstration of the trained model at work. <br>
-<a href="https://www.youtube.com/watch?v=jmE4JAa6zgo" ><img src="images/video.jpg" /></a>
-<br><br><br><br>
+
   <img src="images/1.jpg" />
 <pre>
 eating  :  100.0
@@ -115,5 +112,3 @@ cycling  :  0.00024121977730828803
 
 
 <br>
-
-<h3><b><u>References</u></b></h3>
